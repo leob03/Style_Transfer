@@ -28,7 +28,7 @@ Here are examples of input sourcing images (style then content) and then progres
 We did this by first formulating a loss function that matches the content and style of each respective image in the feature space of a deep network, and then performing gradient descent on the pixels of the image itself.
 
 <p align="center">
-  <img src="./img/example_styletransfer.png" alt="Image Description" width="900" height="300">
+  <img src="./img/example_styletransfer.png" alt="Image Description" width="900" height="250">
 </p>
 
 
